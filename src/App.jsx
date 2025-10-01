@@ -82,12 +82,7 @@ function App() {
           </HoverCard.Trigger>
           <HoverCard.Content maxWidth="350px">
             <Flex gap="4">
-              <Avatar
-                size="3"
-                fallback="AD"
-                radius="full"
-                src="public/amandey.jpg"
-              />
+              <Avatar size="3" fallback="AD" radius="full" src="/amandey.jpg" />
               <Box>
                 <Heading size="3" as="h3">
                   PassCore
