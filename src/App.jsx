@@ -86,7 +86,7 @@ function App() {
                 size="3"
                 fallback="AD"
                 radius="full"
-                src="./public/amandey.jpg"
+                src="public/amandey.jpg"
               />
               <Box>
                 <Heading size="3" as="h3">
